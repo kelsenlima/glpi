@@ -1,1 +1,0 @@
-Script para implantação baseado em computadores 'objeto AD'
